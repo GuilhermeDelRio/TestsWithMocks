@@ -1,0 +1,10 @@
+C:\Users\Guilherme Del Rio\PluralSight\TestsWithMock\mocking-moq-xunit\02\demos\before\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp3.1\CreditCardApplications.deps.json
+C:\Users\Guilherme Del Rio\PluralSight\TestsWithMock\mocking-moq-xunit\02\demos\before\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp3.1\CreditCardApplications.dll
+C:\Users\Guilherme Del Rio\PluralSight\TestsWithMock\mocking-moq-xunit\02\demos\before\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp3.1\CreditCardApplications.pdb
+C:\Users\Guilherme Del Rio\PluralSight\TestsWithMock\mocking-moq-xunit\02\demos\before\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.csproj.AssemblyReference.cache
+C:\Users\Guilherme Del Rio\PluralSight\TestsWithMock\mocking-moq-xunit\02\demos\before\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Del Rio\PluralSight\TestsWithMock\mocking-moq-xunit\02\demos\before\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.AssemblyInfoInputs.cache
+C:\Users\Guilherme Del Rio\PluralSight\TestsWithMock\mocking-moq-xunit\02\demos\before\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.AssemblyInfo.cs
+C:\Users\Guilherme Del Rio\PluralSight\TestsWithMock\mocking-moq-xunit\02\demos\before\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Del Rio\PluralSight\TestsWithMock\mocking-moq-xunit\02\demos\before\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.dll
+C:\Users\Guilherme Del Rio\PluralSight\TestsWithMock\mocking-moq-xunit\02\demos\before\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.pdb
